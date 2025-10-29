@@ -83,4 +83,19 @@ In traditional Kubernetes workflows, updating a ConfigMap or Secret doesn’t au
 This project is distributed under the MIT License — see LICENSE for details.
 ```
 ---
-Author: Naveen R
+---
+
+## 👨‍💻 Author
+
+**Naveen R**  
+ 🚀 DevOps Engineer | Cloud & Automation Enthusiast  
+ 🌐 [https://stackcouture.online/](https://stackcouture.online/)  
+
+I’m passionate about designing scalable cloud-native systems, automating CI/CD pipelines, and exploring Kubernetes, AWS, and modern DevOps tools.  
+This repository is part of my ongoing journey to share practical, real-world implementations of cloud and automation concepts.
+
+If you found this project helpful, feel free to ⭐ **star the repo** and connect with me on [LinkedIn](https://www.linkedin.com/in/naveen-ramlu/).
+
+---
+
+**© 2025 [StackCouture](https://stackcouture.online/) — Crafted with precision and automation.**
