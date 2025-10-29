@@ -30,3 +30,15 @@ In traditional Kubernetes workflows, updating a ConfigMap or Secret doesn’t au
 |   Application Pod  | → Runs with updated environment
 +--------------------+
 ```
+---
+#### ⚙️ Tools & Environment
+```text
+-----------------|----------------------------------------------
+| **Component**  | **Version / Description**                   |
+|----------------|---------------------------------------------|
+| **Kubernetes** | v1.28+ (KodeKloud Lab)                      |
+| **Reloader**   | Stakater Reloader (latest Helm or manifest) |
+| **Demo App**   | Simple deployment using ConfigMap           |
+|----------------|---------------------------------------------|
+```
+---
