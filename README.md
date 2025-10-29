@@ -1,10 +1,10 @@
-## 🔄 Automating Kubernetes Config & Secret Reloads with Stakater Reloader
+### 🔄 Automating Kubernetes Config & Secret Reloads with Stakater Reloader
 
 A hands-on demo showing how to automatically reload Kubernetes Deployments when **ConfigMaps** or **Secrets** are updated — powered by **[Stakater Reloader](https://github.com/stakater/Reloader)**.
 
 ---
 
-### 📘 Overview
+#### 📘 Overview
 
 In traditional Kubernetes workflows, updating a ConfigMap or Secret doesn’t automatically trigger a pod restart — meaning your app may continue running with **stale configuration values**.
 
@@ -12,7 +12,7 @@ In traditional Kubernetes workflows, updating a ConfigMap or Secret doesn’t au
 
 ---
 
-### 🧩 Demo Architecture
+#### Demo Architecture
 
 ```text
 +--------------------+
