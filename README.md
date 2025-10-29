@@ -76,3 +76,11 @@ In traditional Kubernetes workflows, updating a ConfigMap or Secret doesn’t au
 4. **Zero-Downtime Deployments** — Enables smooth rollouts without manual pod restarts.
 
 ---
+
+#### 📄 License
+
+```text
+This project is distributed under the MIT License — see LICENSE for details.
+```
+---
+Author: Naveen R
