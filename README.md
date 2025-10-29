@@ -77,15 +77,21 @@ In traditional Kubernetes workflows, updating a ConfigMap or Secret doesn’t au
 
 ---
 
+#### 📹 Demo Video
+
+🎥 **Watch the full walkthrough on LinkedIn:**  
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7389184630702125056/)
+
+---
+
 #### 📄 License
 
 ```text
 This project is distributed under the MIT License — see LICENSE for details.
 ```
 ---
----
 
-## 👨‍💻 Author
+#### 👨‍💻 Author
 
 **Naveen R**  
  🚀 DevOps Engineer | Cloud & Automation Enthusiast  
